@@ -1,0 +1,20 @@
+[
+    {
+        "host":"83.7.83.147",
+        "username":"sysop",
+        "password":"Qwert789)",
+        "directory":"/"
+    },
+    {
+        "host":"76.10.253.184 ",
+        "username":"wasup",
+        "password":"Wasup123",
+        "directory":"/"
+    },
+    {
+        "host":"76.10.253.224",
+        "username":"wasup",
+        "password":"kfpt1234",
+        "directory":"/washome/"
+    }
+]
